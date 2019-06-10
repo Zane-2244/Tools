@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\LAW\LAW\bin\Debug\LAW.exe.config
+C:\Users\Zane\source\repos\LAW\LAW\bin\Debug\LAW.exe
+C:\Users\Zane\source\repos\LAW\LAW\bin\Debug\LAW.pdb
+C:\Users\Zane\source\repos\LAW\LAW\obj\Debug\LAW.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\LAW\LAW\obj\Debug\LAW.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\LAW\LAW\obj\Debug\LAW.exe
+C:\Users\Zane\source\repos\LAW\LAW\obj\Debug\LAW.pdb

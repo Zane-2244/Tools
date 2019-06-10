@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\DB\DB\bin\Debug\DB.exe.config
+C:\Users\Zane\source\repos\DB\DB\bin\Debug\DB.exe
+C:\Users\Zane\source\repos\DB\DB\bin\Debug\DB.pdb
+C:\Users\Zane\source\repos\DB\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\DB\DB\obj\Debug\DB.exe
+C:\Users\Zane\source\repos\DB\DB\obj\Debug\DB.pdb

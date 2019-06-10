@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\CSW\CSW\bin\Debug\CSW.exe.config
+C:\Users\Zane\source\repos\CSW\CSW\bin\Debug\CSW.exe
+C:\Users\Zane\source\repos\CSW\CSW\bin\Debug\CSW.pdb
+C:\Users\Zane\source\repos\CSW\CSW\obj\Debug\CSW.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\CSW\CSW\obj\Debug\CSW.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\CSW\CSW\obj\Debug\CSW.exe
+C:\Users\Zane\source\repos\CSW\CSW\obj\Debug\CSW.pdb

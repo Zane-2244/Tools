@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\SE\SE\bin\Debug\SE.exe.config
+C:\Users\Zane\source\repos\SE\SE\bin\Debug\SE.exe
+C:\Users\Zane\source\repos\SE\SE\bin\Debug\SE.pdb
+C:\Users\Zane\source\repos\SE\SE\obj\Debug\SE.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\SE\SE\obj\Debug\SE.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\SE\SE\obj\Debug\SE.exe
+C:\Users\Zane\source\repos\SE\SE\obj\Debug\SE.pdb

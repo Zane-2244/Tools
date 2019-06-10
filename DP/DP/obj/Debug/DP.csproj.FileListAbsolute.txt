@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\DP\DP\bin\Debug\DP.exe.config
+C:\Users\Zane\source\repos\DP\DP\bin\Debug\DP.exe
+C:\Users\Zane\source\repos\DP\DP\bin\Debug\DP.pdb
+C:\Users\Zane\source\repos\DP\DP\obj\Debug\DP.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\DP\DP\obj\Debug\DP.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\DP\DP\obj\Debug\DP.exe
+C:\Users\Zane\source\repos\DP\DP\obj\Debug\DP.pdb
